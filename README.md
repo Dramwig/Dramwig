@@ -1,5 +1,4 @@
-<img src="https://github-readme-stats.vercel.app/api?username=Dramwig&show_icons=true" alt="logo" height="160" align="right" width="70%" />
-
+<img src="https://github-readme-stats.vercel.app/api?username=Dramwig&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="logo" height="160" align="right" width="70%" />
 
 ### Hi there 👋
 
@@ -24,3 +23,7 @@ I'm Dramwig
 Reach me at: dramwig@gmail.com
 
 <br><br><br>
+
+<!--
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dramwig\&layout=compact)
+-->
