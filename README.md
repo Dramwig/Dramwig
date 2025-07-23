@@ -22,8 +22,12 @@ I'm Dramwig
 
 Reach me at: dramwig@gmail.com
 
-<br><br><br>
+<br>
 
 <!--
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dramwig\&layout=compact)
 -->
+
+## 🎍 My Skills
+
+![https://github.com/TideDra](https://skillicons.dev/icons?i=anaconda,arch,cpp,py,pytorch,vscode,visualstudio,github,linux,md,latex)
