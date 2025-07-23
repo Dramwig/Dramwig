@@ -1,3 +1,6 @@
+<img src="https://github-readme-stats.vercel.app/api?username=Dramwig&show_icons=true" alt="logo" height="160" align="right" width="70%" />
+
+
 ### Hi there 👋
 
 <!--
@@ -15,7 +18,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://github-readme-stats.vercel.app/api?username=Dramwig&show_icons=true" alt="logo" height="160" align="right" width="70%" />
 
 I'm Dramwig
 
