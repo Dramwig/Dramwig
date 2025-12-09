@@ -1,4 +1,4 @@
-<img src="https://github-readme-stats.vercel.app/api?username=Dramwig&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="logo" height="160" align="right" width="70%" />
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=Dramwig&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="logo" height="160" align="right" width="70%" /> -->
 
 ### Hi there 👋
 
@@ -30,4 +30,4 @@ Reach me at: dramwig@gmail.com
 
 ## 🎍 My Skills
 
-![https://github.com/TideDra](https://skillicons.dev/icons?i=anaconda,arch,cpp,py,pytorch,vscode,visualstudio,github,linux,md,latex)
+![https://github.com/TideDra](https://skillicons.dev/icons?i=anaconda,cpp,py,matlab,html,css,js,ts,pytorch,vscode,github,git,md,latex,linux,nginx,mysql,postgres,ps,pr,)
